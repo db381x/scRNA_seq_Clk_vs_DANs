@@ -1,3 +1,6 @@
+# scRNA_seq_Clk_vs_DANs
+
+Comparative analysis of Drosophila clock neurons and dopaminergic neurons by single cell RNA sequencing.
 
 Scripts related to the current version of our manuscript entitled:
 
